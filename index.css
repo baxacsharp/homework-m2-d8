@@ -1,0 +1,11 @@
+.navbar-brand{
+    color:white;
+    margin-left: 250px;
+
+}
+.navbar-nav a >.nav-link-active{
+    color:white;
+}
+#navbarNavAltMarkup{
+    color: white;
+}
