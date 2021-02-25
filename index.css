@@ -9,3 +9,8 @@
 #navbarNavAltMarkup{
     color: white;
 }
+.first-ex{
+    border: solid 2px black;
+    border-radius: 30px;
+    height: 400px;
+}
